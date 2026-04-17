@@ -51,3 +51,5 @@ Specifically, I needed help understanding how "left_on" and "right_on" worked fo
 Finally, AI helped me learn how to use the correlate function, and the matplotlib.pyplot to create a visual scatter plot. 
 
 It imported the matplotlib.pyplot for me, and helped me format the code correctly. The plot can be defined using "plt.X" for the legend, title, xlabel, ylabel, plot and scatter data.
+
+To view my prompt log, you can check it out [here](https://docs.google.com/spreadsheets/d/1_bv2HM8EqJXrEz-x5FmvTExZqFOuBVjSC3b9G224fco/edit?usp=sharing).
