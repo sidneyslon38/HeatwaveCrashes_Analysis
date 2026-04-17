@@ -20,7 +20,7 @@ Using pandas, a python library, I filtered through both data sets and combined t
 
 ## Analysis
 
-To view steps I took during the analysis, both analysis notebooks, which can be found in this repository's notebooks folder, are annotated with comments so that steps can be replicated.
+To view steps I took during the analysis, both analysis notebooks, which can be found in this repository's [notebooks](https://github.com/sidneyslon38/HeatwaveCrashes_Analysis/tree/main/notebooks) folder, are annotated with comments so that steps can be replicated.
 
 ## Results
 
