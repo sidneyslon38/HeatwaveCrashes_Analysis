@@ -1,0 +1,58 @@
+All listed contributing factors of pedestrian injuries from vehicle collisions:
+
+Alcohol Involvement
+Driver Inattention/Distraction
+Lost Consciousness
+Unspecified
+Turning Improperly
+Failure to Yield Right-of-Way
+Passing Too Closely
+Glare
+Backing Unsafely
+Obstruction/Debris
+Unsafe Speed
+Passing or Lane Usage Improper
+Traffic Control Disregarded
+Reaction to Uninvolved Vehicle
+Other Vehicular
+Following Too Closely
+Pavement Slippery
+View Obstructed/Limited
+Traffic Control Device Improper/Non-Working
+Drugs (illegal)
+Fell Asleep
+Driver Inexperience
+Oversized Vehicle
+Steering Failure
+Outside Car Distraction
+Illnes
+nan
+Driverless/Runaway Vehicle
+Animals Action
+Unsafe Lane Changing
+Passenger Distraction
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion
+Aggressive Driving/Road Rage
+Fatigued/Drowsy
+Tire Failure/Inadequate
+Brakes Defective
+Headlights Defective
+Failure to Keep Right
+Cell Phone (hand-Held)
+Tinted Windows
+Other Electronic Device
+Accelerator Defective
+Physical Disability
+Tow Hitch Defective
+Texting
+Prescription Medication
+Pavement Defective
+Eating or Drinking
+Windshield Inadequate
+Using On Board Navigation Device
+Vehicle Vandalism
+Other Lighting Defects
+Cell Phone (hands-free)
+Lane Marking Improper/Inadequate
+Listening/Using Headphones
+Shoulders Defective/Improper
