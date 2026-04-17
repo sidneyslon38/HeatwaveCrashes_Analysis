@@ -24,7 +24,7 @@ To view steps I took during the analysis, both analysis notebooks, which can be 
 
 ## Results
 
-To view detailed findings, you can read the [results](../output/analyses_results.md) file, found in this repository's output folder.
+To view detailed findings, you can read the [results](https://github.com/sidneyslon38/HeatwaveCrashes_Analysis/blob/main/output/analyses_results.md) file, found in this repository's output folder.
 
 ## Additional Notes
 
