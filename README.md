@@ -14,7 +14,7 @@ However, pedestrian injuries are considered much more accurate, hence why that w
 
 ## Loading in the data
 
-I imported both data sets, which can be viewed in this repository's data folder, as CSV files.
+I imported both data sets, one of which can be viewed in this repository's data folder as a CSV file. The Motor Vehicle crashes data is too large for this repository, but can be easily downloaded the Open NYC Data portal.
 
 Using pandas, a python library, I filtered through both data sets and combined them to compare monthly pedestrian injuries and monthly temperature averages. 
 
